@@ -1,2 +1,3 @@
 # Description:
-A collection of COVID-19 data using SAS Enterprise and a collection of databases
+
+Nation wellbeing vs. Governmental Education Expenses and impact of COVID-19 on Nation wellbeing data.
